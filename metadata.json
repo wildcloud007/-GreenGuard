@@ -1,0 +1,7 @@
+{
+  "name": "GreenGuard Landscaping AI",
+  "description": "Voice-enabled AI agent for landscaping consultations and scheduling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
